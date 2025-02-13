@@ -2,10 +2,9 @@
 
 Welcome to my portfolio repository! This project showcases my skills, experience, and projects in software development.
 
-## 🌐 Live Demo
-You can view the live version of my portfolio here:
-[Live Website]([https://sharafahmed3.github.io/portfolio_sharafsalaf/)]
-You can view the live version of my portfolio here:
+## 🌐 Live Demo  
+You can view the live version of my portfolio here:  
+[Live Website](https://sharafahmed3.github.io/portfolio_sharafsalaf/)
 
 ## 📌 About Me
 I am AL Sharaf Ahmed, a passionate and ambitious software engineer. I specialize in frontend development with HTML, CSS, JavaScript, and modern frameworks like React.js. I also have experience in backend technologies such as PHP and MySQL. My goal is to create intuitive, visually captivating, and efficient web & desktop applications.
