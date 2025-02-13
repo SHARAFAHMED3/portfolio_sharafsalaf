@@ -216,8 +216,6 @@ header .follow a:hover {
 
 .about .row {
     display: flex;
-    /**align-items: center;
-    justify-content: center;**/
     flex-wrap: wrap;
     padding: 1rem 0;
 }
@@ -346,11 +344,11 @@ header .follow a:hover {
 }
 
 .about .skill-row .skill .wordpress::before {
-    width: 90%;
+    width: 75%;
 }
 
-.about .skill-row .skill .laravel::before {
-    width: 80%;
+.about .skill-row .skill .ReactJs::before {
+    width: 50%;
 }
 
 .about .skill-row .skill .css::before {
@@ -358,11 +356,13 @@ header .follow a:hover {
 }
 
 .about .skill-row .skill .c::before {
-    width: 80%;
+    width: 50%;
 }
-
+.about .skill-row .skill .python::before {
+    width: 50%;
+}
 .about .skill-row .skill .JavaScript::before {
-    width: 60%;
+    width: 75%;
 }
 
 .about .skill-row .skill .html::before {
@@ -370,15 +370,11 @@ header .follow a:hover {
 }
 
 .about .skill-row .skill .php::before {
-    width: 80%;
+    width: 75%;
 }
 
 .about .skill-row .skill .MySQL::before {
-    width: 80%;
-}
-
-.about .skill-row .skill .Angular::before {
-    width: 60%;
+    width: 90%;
 }
 
 .about .skill-row .skill .java::before {
